@@ -1,10 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-}
-
-module.exports = {
-  nextConfig, amplify: {
+  amplify: {
     outputStandalone: true,
   },
 }
+
+module.exports = nextConfig
