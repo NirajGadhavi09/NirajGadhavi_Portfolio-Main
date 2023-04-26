@@ -119,7 +119,7 @@ const NavBar = () => {
                     whileHover={{y:-2}} whileTap={{scale:0.9}} className="w-6 mx-3 sm:mx-1"><LinkedInIcon /></motion.a> 
                 
                 <button onClick={() => setMode(mode === "light" ? "dark" : "light")}
-                className={`ml-3 flex items-center justify-between rounded-full p-1 w-6 mx-3
+                className={`ml-1 flex items-center justify-between rounded-full p-1 w-6
                 ${mode === "light" ? "bg-dark text-light" : "bg-light text-dark"}`}>
                     {
                         mode === 'dark' ? <SunIcon className={"fill-dark"} />
