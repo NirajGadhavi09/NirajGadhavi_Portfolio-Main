@@ -100,8 +100,8 @@ const projects = () =>{
                             title="My Portfolio" 
                             img={project11}
                             summary="React JS, Next JS, Framer-motion, and Styled-components are used to create a professional portfolio website. It has seamless page transitions, stunning background effects, a one-of-a-kind design, and is mobile friendly."
-                            link="https://github.com/NirajGadhavi09/NirajGadhavi_Portfolio/tree/master" 
-                            github="https://github.com/NirajGadhavi09/NirajGadhavi_Portfolio/tree/master"
+                            link="https://nirajgadhavi09.github.io/NirajGadhavi_Portfolio-Main/" 
+                            github="https://github.com/NirajGadhavi09/NirajGadhavi_Portfolio-Main"
                             type="Featured Project"
                             />
                         </div>
